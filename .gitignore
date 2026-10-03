@@ -1,0 +1,14 @@
+pdf_tools/.venv/
+**/__pycache__/
+**/.pytest_cache/
+pdf_tools/build/
+pdf_tools/dist/
+pdf_tools/.test-output/
+pdf_tools/.gui-check-data/
+pdf_tools/.word-check-data/
+pdf_tools/.exe-check-data/
+pdf_tools/build-desktop/
+pdf_tools/dist-desktop/
+pdf_tools/.build-cache/
+pdf_tools/.pytest-work/
+pdf_tools/.pytest-work-cache/
